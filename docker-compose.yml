@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  psaga:
+    image: python:3.11-bookworm
+    volumes:
+      - ./psaga:/psaga
+    tty: true
+  
