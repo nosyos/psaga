@@ -3,14 +3,14 @@
 psaga is a simple saga ochestrator package.
 
 ## Install
-```python
+```bash
 git clone https://github.com/nosyos/psaga.git
 cd psaga
 pip install -e .
 ```
 
 ## Uninstall
-```python
+```bash
 pip uninstall psaga
 ```
 
