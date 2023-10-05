@@ -1,6 +1,6 @@
 # psaga
 
-psaga is simple a saga ochestrator package.
+psaga is a simple saga ochestrator package.
 
 ## Install
 ```python
